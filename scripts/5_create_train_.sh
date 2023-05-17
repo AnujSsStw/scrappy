@@ -6,11 +6,7 @@ raw_data_dir="$base_dir/raw_data"
 data_dir="$base_dir/data"
 
 declare -a class_names=(
-	"neutral"
 	"drawings"
-	"sexy"
-	"porn"
-	"hentai"
 	)
 
 train_dir="$data_dir/train"
